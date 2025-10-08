@@ -13,14 +13,14 @@
 
 I’m a passionate and confident **.NET Developer** who believes in clean, efficient, and scalable code.  
 
-<div align="center">
-  <a href="mailto:ahmedsemido14@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+<p align="center">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=ahmedsemido14@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://linkedin.com/in/ahmed-samir-dev" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/ahmed-samir-dev" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-</div>
+</p>
 
 
 </div>
