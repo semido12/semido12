@@ -30,34 +30,35 @@ I’m a passionate and confident **.NET Developer** who believes in clean, effic
 ## 🧩 Technical Skills  
 
 ### 💻 Programming Languages  
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-6A5ACD?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-4B8BBE?style=for-the-badge&logo=python&logoColor=FFD43B)
+![HTML](https://img.shields.io/badge/HTML5-FC6D26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-2965F1?style=for-the-badge&logo=css3&logoColor=white)
 
 ### ⚙️ Frameworks & Libraries  
-![ADO.NET](https://img.shields.io/badge/ADO.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![EF Core](https://img.shields.io/badge/Entity%20Framework%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Dapper](https://img.shields.io/badge/Dapper-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![LINQ](https://img.shields.io/badge/LINQ-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![ASP.NET Core MVC](https://img.shields.io/badge/ASP.NET%20Core%20MVC-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Web API](https://img.shields.io/badge/Web%20API-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![ADO.NET](https://img.shields.io/badge/ADO.NET-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)
+![EF Core](https://img.shields.io/badge/Entity%20Framework%20Core-4B0082?style=for-the-badge&logo=dotnet&logoColor=white)
+![Dapper](https://img.shields.io/badge/Dapper-9370DB?style=for-the-badge&logo=dotnet&logoColor=white)
+![LINQ](https://img.shields.io/badge/LINQ-7B68EE?style=for-the-badge&logo=dotnet&logoColor=white)
+![ASP.NET Core MVC](https://img.shields.io/badge/ASP.NET%20Core%20MVC-483D8B?style=for-the-badge&logo=dotnet&logoColor=white)
+![Web API](https://img.shields.io/badge/Web%20API-6A5ACD?style=for-the-badge&logo=dotnet&logoColor=white)
 
 ### 🗄️ Databases  
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-B22222?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
 ### 🧰 Tools & IDEs  
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-1E90FF?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ### 🧱 Software Development Concepts  
-![OOP](https://img.shields.io/badge/OOP-FF6F00?style=for-the-badge&logo=target&logoColor=white)
-![SOLID Principles](https://img.shields.io/badge/SOLID-0078D7?style=for-the-badge&logo=codeforces&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![OOP](https://img.shields.io/badge/OOP-4682B4?style=for-the-badge&logo=target&logoColor=white)
+![SOLID Principles](https://img.shields.io/badge/SOLID%20Principles-4169E1?style=for-the-badge&logo=codeforces&logoColor=white)
+![Git](https://img.shields.io/badge/Git-DE4C36?style=for-the-badge&logo=git&logoColor=white)
 
 ### 💽 Operating Systems  
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-1E90FF?style=for-the-badge&logo=windows&logoColor=white)
 
 ---
+
 
 ⭐ _“Build with logic, grow with confidence.”_
