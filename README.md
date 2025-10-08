@@ -8,7 +8,7 @@
 <!-- 🧠 About Me -->
 <div align="center">
 
-### Ahmed Samir  
+# Ahmed Samir  
 ### 💼 .NET Developer  
 
 I’m a passionate and confident **.NET Developer** who believes in clean, efficient, and scalable code.  
