@@ -50,7 +50,7 @@ I’m a passionate and confident **.NET Developer** who believes in clean, effic
 ### **Web Development Intern (Training) — Information Technology Institute (ITI)**  
 *Jul 2023 – Sep 2023* 
 
-[View Certificate](https://github.com/AhmedSamirDev-pixel/AhmedSamirDev-pixel/blob/main/certificates/ITI_CERTIFICATE.jpg)
+[View Certificate](https://github.com/AhmedSamirDev-pixel/AhmedSamirDev-pixel/blob/main/certificates/ITI _PYTHON _CERTIFICATE.jpg)
 - Completed a **120-hour training** in **web development using Python**.  
 - Gained practical experience with **HTML**, **CSS**, **JavaScript**, **databases**, and the **Django framework**.  
 
