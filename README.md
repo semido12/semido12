@@ -36,8 +36,11 @@ I’m a passionate and confident **.NET Developer** who believes in clean, effic
 
 ---
 
-### **Backend .NET Developer Trainee — Upskilling IT Training Center**  
+### **Backend .NET Developer Trainee — Upskilling IT Training Center** 
 *Feb 2025 – Jul 2025*  
+
+[View Certificate](https://github.com/AhmedSamirDev-pixel/AhmedSamirDev-pixel/blob/main/certificates/UPSKILLING_CERTIFCATE.jpg)
+
 - Completed an **advanced backend development diploma (84 hours)** focused on **C#**, **.NET Core**, and **SQL Server**.  
 - Built **RESTful APIs** using **ASP.NET Core**, implemented **authentication & authorization**, and managed data with **Entity Framework Core** and **LINQ**.  
 - Applied **Agile methodologies** and **clean coding practices** in real-world project simulations.  
@@ -45,7 +48,9 @@ I’m a passionate and confident **.NET Developer** who believes in clean, effic
 ---
 
 ### **Web Development Intern (Training) — Information Technology Institute (ITI)**  
-*Jul 2023 – Sep 2023*  
+*Jul 2023 – Sep 2023* 
+
+[View Certificate](https://github.com/AhmedSamirDev-pixel/AhmedSamirDev-pixel/blob/main/certificates/ITI_CERTIFICATE.jpg)
 - Completed a **120-hour training** in **web development using Python**.  
 - Gained practical experience with **HTML**, **CSS**, **JavaScript**, **databases**, and the **Django framework**.  
 
