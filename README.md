@@ -26,6 +26,30 @@ I’m a passionate and confident **.NET Developer** who believes in clean, effic
 </div>
 
 ---
+## 💼 Experience & Training
+
+### **.NET Developer Intern — Softat Solutions**  
+*Menoufia, Egypt | Jun 2025 – Jul 2025*  
+- Gained hands-on experience in **.NET application development** within a professional environment.  
+- Built and maintained **database-driven desktop applications** using **Windows Forms**, **ADO.NET**, and **SQL Server**.  
+- Enhanced understanding of **data connectivity**, **CRUD operations**, and **UI design principles** in **C#**.  
+
+---
+
+### **Backend .NET Developer Trainee — Upskilling IT Training Center**  
+*Feb 2025 – Jul 2025*  
+- Completed an **advanced backend development diploma (84 hours)** focused on **C#**, **.NET Core**, and **SQL Server**.  
+- Built **RESTful APIs** using **ASP.NET Core**, implemented **authentication & authorization**, and managed data with **Entity Framework Core** and **LINQ**.  
+- Applied **Agile methodologies** and **clean coding practices** in real-world project simulations.  
+
+---
+
+### **Web Development Intern (Training) — Information Technology Institute (ITI)**  
+*Jul 2023 – Sep 2023*  
+- Completed a **120-hour training** in **web development using Python**.  
+- Gained practical experience with **HTML**, **CSS**, **JavaScript**, **databases**, and the **Django framework**.  
+
+---
 
 ## 🧩 Technical Skills  
 
@@ -60,5 +84,6 @@ I’m a passionate and confident **.NET Developer** who believes in clean, effic
 
 ---
 
+---
 
 ⭐ _“Build with logic, grow with confidence.”_
